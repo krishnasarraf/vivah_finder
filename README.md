@@ -1,1 +1,1 @@
-# vivah_finder
+This is a sample school project where i am trying to build a python application with mysql as a DB. Through vivah finder we are trying to solve the problem of match making.
