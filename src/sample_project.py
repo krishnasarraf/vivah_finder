@@ -103,7 +103,7 @@ def bill():
     ls=[]
     sv=mysql.connector.connect(
     host='localhost',           # Replace with your host
-    user='root',       # Replace with your username
+    user='rooot',       # Replace with your username
     password='Root@123',   # Replace with your password
 )
     cr=sv.cursor()
